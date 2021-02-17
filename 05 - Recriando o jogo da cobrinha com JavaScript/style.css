@@ -1,0 +1,11 @@
+body {
+    height: 95vh;
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(5, 73, 5);
+    background-color: honeydew;
+}
